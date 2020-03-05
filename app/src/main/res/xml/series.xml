@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dvd
+        cat="serie"
+        titre="Game of thrones"
+        realisateur="Timothy Van Patten"
+        img="game_of_thrones" />
+    <dvd
+        cat="serie"
+        titre="Cold case"
+        realisateur="Marcos Siega"
+        img="cold_case" />
+    <dvd
+        cat="serie"
+        titre="Grey's anatomy"
+        realisateur="Bill d'Ellia"
+        img="greys_anatomy" />
+    <dvd
+        cat="serie"
+        titre="La casa de papel"
+        realisateur="Jesus Colmenar"
+        img="casa" />
+    <dvd
+        cat="serie"
+        titre="Breaking bad"
+        realisateur="Vince gulligan"
+        img="breaking_bad" />
+</resources>
