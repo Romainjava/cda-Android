@@ -1,10 +1,12 @@
 package data.cineclub;
 
-import android.util.Log;
+import android.content.res.AssetManager;
+import android.widget.ListView;
 
-import org.xmlpull.v1.XmlPullParser;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
 
-import java.util.ArrayList;
 
 public class Film {
     String strTitle;
